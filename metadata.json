@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Collaborative project management workspace with group projects, Kanban boards, task assignments, threaded comments, and real-time WebSocket notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
